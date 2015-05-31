@@ -16,8 +16,8 @@
 	padding: 0 0 56.25% 0;
 	overflow: hidden;
 	cursor: pointer;
-	background-color: #313131;
-	border: 2px solid black;
+	background-color: white;
+	border: 2px dashed black;
 }
 .blueimp-gallery .modal-footer {
 	margin: 0;
@@ -38,8 +38,9 @@
 
 .modal-title {
 	font-family: "motion_controlbold";
-	font-size: 2.5vw;
+	font-size: 3vw;
 }
+
 
 .blueimp-gallery .modal-body .video-content video {
  	display: none;

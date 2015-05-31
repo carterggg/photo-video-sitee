@@ -11,7 +11,7 @@ $main-font: 'motion_controlbold';
 }
 
 body {
-	background-image: url('images/layout/double-d3.gif');
+	background-image: url('images/layout/background6.gif');
 	background-repeat: repeat;
 	font-family: $main-font !important;
 }
@@ -99,10 +99,10 @@ a:active {
 #links {
 	margin-top: 20px;
 	margin-left: 0px;
-	padding-left:45px;
 	padding-top: 3px;
 	width:100%;
 	margin: auto;
+	text-align: center;
 }
 
 #links-designs {
@@ -114,9 +114,10 @@ a:active {
 }
 
 #links-designs-mobile {
-	margin-left: 60px;
+/*	margin-left: 60px; */
 	padding-top: 3px;
 	width:100%;
+	text-align: center;
 	
 }
 

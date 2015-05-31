@@ -4,7 +4,7 @@
   padding: auto; }
 
 body {
-  background-image: url("images/layout/double-d3.gif");
+  background-image: url("images/layout/background6.gif");
   background-repeat: repeat;
   font-family: "motion_controlbold" !important; }
 
@@ -77,10 +77,10 @@ a:active {
 #links {
   margin-top: 20px;
   margin-left: 0px;
-  padding-left: 45px;
   padding-top: 3px;
   width: 100%;
-  margin: auto; }
+  margin: auto;
+  text-align: center; }
 
 #links-designs {
   margin-top: 20px;
@@ -90,9 +90,10 @@ a:active {
   width: 100%; }
 
 #links-designs-mobile {
-  margin-left: 60px;
+  /*	margin-left: 60px; */
   padding-top: 3px;
-  width: 100%; }
+  width: 100%;
+  text-align: center; }
 
 .mobile-main-content {
   background-color: white;
