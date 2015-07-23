@@ -161,6 +161,21 @@ a:active {
 	margin-left: 45px;
 }
 
+.more {
+	color: black;
+	font-size: 2em;
+	font-family: $main-font;
+	text-align: center;
+}
+
+.more:hover {
+	color: #D2398D;
+	font-size: 2em;
+	font-family: $main-font;
+	text-align: center;
+	text-decoration: none;
+}
+
 
 
 /* Video EMBed responsive code */

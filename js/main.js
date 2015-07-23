@@ -14,7 +14,7 @@ $(".toggle-nav").click(function () {
 });
 */
 
-/* 
+
 $(document).ready(function(){
 
 	//dynamically load content from content.html 
@@ -26,9 +26,9 @@ $(document).ready(function(){
 	
 	$('.more').click(function(e){
 		e.preventDefault();
-		$('.dynamic').load('content/blog-page1.html');
+		$('.dynamic').load('content/update-1.html');
 		$(this).remove();
 	});
 });
 
-*/
+

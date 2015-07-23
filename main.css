@@ -129,6 +129,19 @@ a:active {
   box-shadow: 0 0 0 4px white, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
   margin-left: 45px; }
 
+.more {
+  color: black;
+  font-size: 2em;
+  font-family: "motion_controlbold";
+  text-align: center; }
+
+.more:hover {
+  color: #D2398D;
+  font-size: 2em;
+  font-family: "motion_controlbold";
+  text-align: center;
+  text-decoration: none; }
+
 /* Video EMBed responsive code */
 .responsive-vid {
   position: relative;
