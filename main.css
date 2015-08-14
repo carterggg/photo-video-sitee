@@ -32,7 +32,7 @@ nav {
 ul {
   text-align: center; }
 
-h1, h2, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   font-family: "motion_controlbold" !important;
   color: black !important; }
 
@@ -73,6 +73,13 @@ a:active {
   border: 3px dashed black;
   box-shadow: 0 0 0 4px white, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
   margin-left: 30px; }
+
+.inner-content hr {
+  border-bottom: 3px dashed black; }
+
+.servicesmargin-style {
+  margin-right: 275px;
+  margin-left: 100px; }
 
 #links {
   margin-top: 20px;
