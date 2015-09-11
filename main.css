@@ -77,6 +77,9 @@ a:active {
 .inner-content hr {
   border-bottom: 3px dashed black; }
 
+.pink-text {
+  color: #D2398D !important; }
+
 .servicesmargin-style {
   margin-right: 275px;
   margin-left: 100px; }
